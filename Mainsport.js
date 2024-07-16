@@ -1,4 +1,4 @@
-const url = "https://huggingface.co/spaces/mmsubandmovies/main/raw/main/mainsportsm3u8.html"
+const url = "https://raw.githubusercontent.com/mmsubandmovies/-/main/Mainsport.html"
 fetch(url)
   .then((response) => {
     const urlData = response.json();
