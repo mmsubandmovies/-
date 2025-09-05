@@ -1,5 +1,5 @@
 // jsonconnect live event
-$.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/liveevent.json', 
+$.getJSON('https://huggingface.co/spaces//Mytv/raw/main/liveevent.json', 
 function(result) {
   let event = result.event;
   //console.log(event);
@@ -21,7 +21,7 @@ function(result) {
 });
 
 // jsonconnect sportlist
-$.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/sportlist.json', 
+$.getJSON('https://huggingface.co/spaces//Mytv/raw/main/sportlist.json', 
 function(result) {
   let sportlist = result.sportlist;
   //console.log(sportlist);
@@ -32,7 +32,7 @@ function(result) {
 });
 
 // jsonconnect mmsub
-$.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/mmsub.json', 
+$.getJSON('https://huggingface.co/spaces//Mytv/raw/main/mmsub.json', 
 function(result) {
   let sportlist = result.mmsub;
   //console.log(mmsub);
@@ -44,7 +44,7 @@ function(result) {
 
 
 // jsonconnect ustv = No VPN (VPN မလို)
- $.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/ustv.json', 
+ $.getJSON('https://huggingface.co/spaces//Mytv/raw/main/ustv.json', 
 function(result) {
   let ustv = result.ustv;
   //console.log(ustv);
@@ -65,7 +65,7 @@ function(result) {
 
 
 // jsonconnect moviestv
- $.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/moviestv.json', 
+ $.getJSON('https://huggingface.co/spaces//Mytv/raw/main/moviestv.json', 
 function(result) {
   let moviestv = result.moviestv;
   //console.log(moviestv);
@@ -84,7 +84,7 @@ function(result) {
 
 
 // jsonconnect kidstv
- $.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/kidstv.json', 
+ $.getJSON('https://huggingface.co/spaces//Mytv/raw/main/kidstv.json', 
 function(result) {
   let kidstv = result.kidstv;
   //console.log(kidstv);
@@ -104,7 +104,7 @@ function(result) {
 
 
 // jsonconnect thailand
- $.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/thailand.json', 
+ $.getJSON('https://huggingface.co/spaces//Mytv/raw/main/thailand.json', 
 function(result) {
   let thailand = result.thailand;
   //console.log(thailand);
@@ -124,7 +124,7 @@ function(result) {
 
 
 // jsonconnect needvpn
-$.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/needvpn.json', 
+$.getJSON('https://huggingface.co/spaces//Mytv/raw/main/needvpn.json', 
 function(result) {
   let needvpn = result.needvpn;
   //console.log(needvpn);
@@ -136,7 +136,7 @@ function(result) {
 
 
 //json connect movies
-$.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/movies.json', function(result) {
+$.getJSON('https://huggingface.co/spaces//Mytv/raw/main/movies.json', function(result) {
   let movies = result.movies;
   //console.log(movies);
 
@@ -160,7 +160,7 @@ $.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/movies.json', fun
 
 
 //json connect india
-$.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/india.json', function(result) {
+$.getJSON('https://huggingface.co/spaces//Mytv/raw/main/india.json', function(result) {
   let india = result.india;
   //console.log(india);
 
@@ -183,7 +183,7 @@ $.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/india.json', func
 
 
 //json connect notice
-$.getJSON('https://huggingface.co/spaces/Gigipop/Mytv/raw/main/notice.json', function(result) {
+$.getJSON('https://huggingface.co/spaces//Mytv/raw/main/notice.json', function(result) {
   let notice = result.notice;
   //console.log(notice);
 
